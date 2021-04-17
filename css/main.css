@@ -1,0 +1,28 @@
+/** BASE STYLES **/
+html {
+  font-family: font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+}
+
+body {
+ font-size: 1em;
+}
+
+
+/** FOOTER STYLES **/ 
+footer {
+
+}
+
+
+
+@media all and (min-width: 1200px) {
+  /** DESKTOP STYLES HERE **/
+
+  /** BASE STYLES **/
+  body {
+   
+  }
+
+  
+}
